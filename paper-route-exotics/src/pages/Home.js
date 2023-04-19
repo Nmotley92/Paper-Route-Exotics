@@ -1,8 +1,6 @@
-
-
 const Home = () => {
     return (
-        <div id="banner" className="h-screen w-screen bg-cover bg-center">
+      <div id="banner" className="h-screen w-screen bg-cover bg-center">
         <div className="bg-opacity-95 bg-gray-900 text-white py-10 rounded-lg shadow-lg flex flex-col items-center justify-center m-3">
           <div className="container mx-auto flex flex-col md:flex-row items-center justify-center md:justify-between">
             <div className="w-full md:w-1/2 text-center md:text-left m-5 p-5">
@@ -26,7 +24,7 @@ const Home = () => {
             </div>
             <div className="w-full md:w-1/2">
               <img
-                src="/images/bannerpicpaper.jpg"
+                src={`${process.env.PUBLIC_URL}/images/bannerpicpaper.jpg`}
                 alt="Paper Route Bullies Logo"
                 className="rounded-lg shadow-lg"
               />
@@ -35,8 +33,9 @@ const Home = () => {
         </div>
       </div>
     );
-    };
-
-export default Home;
+  };
+  
+  export default Home;
+  
 
 // Path: paper-route-exotics\src\pages\OurDogs.js

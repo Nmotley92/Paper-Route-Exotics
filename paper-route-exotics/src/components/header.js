@@ -1,14 +1,13 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 
-
 const Header = () => {
   return (
     <nav className="bg-white py-4">
       <div className="container mx-auto flex justify-between items-center mx-auto">
         <ul className="flex space-x-4 mx-auto">
           <img
-            src="./images/paperroute.png"
+            src={`${process.env.PUBLIC_URL}/images/paperroute.png`}
             alt=""
             className="rounded-full"
             style={{ height: '100px', width: '100px' }}
@@ -35,4 +34,5 @@ const Header = () => {
 };
 
 export default Header;
+
 
