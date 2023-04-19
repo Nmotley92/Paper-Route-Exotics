@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Paper-Route-Exotics/static/css/main.3adc62d0.css",
-    "main.js": "/Paper-Route-Exotics/static/js/main.3ec23719.js",
+    "main.css": "/Paper-Route-Exotics/static/css/main.83d28e17.css",
+    "main.js": "/Paper-Route-Exotics/static/js/main.d02430eb.js",
     "static/js/787.a26d6291.chunk.js": "/Paper-Route-Exotics/static/js/787.a26d6291.chunk.js",
     "static/media/bannerpic1024_1.jpg": "/Paper-Route-Exotics/static/media/bannerpic1024_1.a4d31dab7a283d7dce18.jpg",
     "index.html": "/Paper-Route-Exotics/index.html",
-    "main.3adc62d0.css.map": "/Paper-Route-Exotics/static/css/main.3adc62d0.css.map",
-    "main.3ec23719.js.map": "/Paper-Route-Exotics/static/js/main.3ec23719.js.map",
+    "main.83d28e17.css.map": "/Paper-Route-Exotics/static/css/main.83d28e17.css.map",
+    "main.d02430eb.js.map": "/Paper-Route-Exotics/static/js/main.d02430eb.js.map",
     "787.a26d6291.chunk.js.map": "/Paper-Route-Exotics/static/js/787.a26d6291.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3adc62d0.css",
-    "static/js/main.3ec23719.js"
+    "static/css/main.83d28e17.css",
+    "static/js/main.d02430eb.js"
   ]
 }
