@@ -14,7 +14,7 @@ function App() {
         <Route path="/" element={<Home />} />
         <Route path="/dogs" element={<OurDogs />} />
         <Route path="/contact" element={<Contact />} />
-        <Route path="*" element="Page not exists 404" />
+        <Route path="*" element={<Home />} />
       </Routes>
     </BrowserRouter>  
   );
