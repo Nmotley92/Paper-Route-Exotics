@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.02ac4143.css",
-    "main.js": "/static/js/main.77edbcbd.js",
-    "static/js/787.a26d6291.chunk.js": "/static/js/787.a26d6291.chunk.js",
-    "static/media/bannerpic1024_1.jpg": "/static/media/bannerpic1024_1.a4d31dab7a283d7dce18.jpg",
-    "index.html": "/index.html",
-    "main.02ac4143.css.map": "/static/css/main.02ac4143.css.map",
-    "main.77edbcbd.js.map": "/static/js/main.77edbcbd.js.map",
-    "787.a26d6291.chunk.js.map": "/static/js/787.a26d6291.chunk.js.map"
+    "main.css": "/Paper-Route_Exotics/static/css/main.e85cb166.css",
+    "main.js": "/Paper-Route_Exotics/static/js/main.925a2225.js",
+    "static/js/787.a26d6291.chunk.js": "/Paper-Route_Exotics/static/js/787.a26d6291.chunk.js",
+    "static/media/bannerpic1024_1.jpg": "/Paper-Route_Exotics/static/media/bannerpic1024_1.a4d31dab7a283d7dce18.jpg",
+    "index.html": "/Paper-Route_Exotics/index.html",
+    "main.e85cb166.css.map": "/Paper-Route_Exotics/static/css/main.e85cb166.css.map",
+    "main.925a2225.js.map": "/Paper-Route_Exotics/static/js/main.925a2225.js.map",
+    "787.a26d6291.chunk.js.map": "/Paper-Route_Exotics/static/js/787.a26d6291.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.02ac4143.css",
-    "static/js/main.77edbcbd.js"
+    "static/css/main.e85cb166.css",
+    "static/js/main.925a2225.js"
   ]
 }
